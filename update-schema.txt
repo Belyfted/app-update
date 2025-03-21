@@ -1,4 +1,1 @@
-{
-"version":"6.0",
 "notes": ["biometrics added", "bug fixes", "volume redirection fix"]
-}
